@@ -1,6 +1,6 @@
 ### Guessing Game in Rust!
 
-##### This is the famous guessing game implemented in rust. I wrote while I was making my baby steps in rust. See [rust-book](https://doc.rust-lang.org/book) for more exercises.
+##### This is the famous guessing game implemented in rust. I wrote it while I was making my baby steps in rust. See [rust-book](https://doc.rust-lang.org/book) for more exercises.
 
 ###### Here are the steps to test the code:
 
